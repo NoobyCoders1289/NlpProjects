@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\vanar\AppData\Local\Programs\Python\Python39\MyLearningProjects\AILearningProjects\NlpProjects\venv
+set VIRTUAL_ENV=C:\Users\2003640\Documents\NlpProjects\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

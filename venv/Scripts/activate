@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\vanar\AppData\Local\Programs\Python\Python39\MyLearningProjects\AILearningProjects\NlpProjects\venv"
+VIRTUAL_ENV="C:\Users\2003640\Documents\NlpProjects\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
